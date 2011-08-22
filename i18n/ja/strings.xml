@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+        <string name="start_titlemain">Cloud Box</string>
+        <string name="start_titlesub">Powered by Intalio Cloud</string>
+        <string name="start_btnstart">ようこそ、Intalioへ</string>
+        <string name="login_title">カメラ営業支援アプリ</string>
+        <string name="login_titlesub">ログイン名：</string> 
+        <string name="login_btnlogin">ログイン</string>
+        <string name="login_btnReset">リセット</string>
+        <string name="login_btnUserName">ユーザー選択</string>
+        <string name="login_register_dialog_title">ユーザー選択</string>
+        <string name="event_title">エラーメッセージ</string>
+        <string name="event_message">ログイン名がありません</string>
+        <string name="event_yes_title">エラー</string>
+        <string name="event_catch_title">エラー</string>
+        <string name="event_catch_message">予期せぬエラーが発生しました</string>
+        <string name="event_connect_title">認証エラー</string>
+        <string name="event_connect_message">接続設定を確認してください</string>
+        <string name="event_network_title">通信エラー</string>
+        <string name="event_network_message">ネットワーク接続を確認してください</string>
+        <string name="event_camera_title">カメラエラー</string>
+        <string name="event_camera_message">カメラ起動時にエラーが発生しました</string>
+        <string name="event_gallary_title">画像選択エラー</string>
+        <string name="event_gallary_message">画像選択時にエラーが発生しました</string>
+        <string name="list_btnLatest">最新情報取得</string>
+        <string name="list_btnBack">ログイン画面へ</string>
+        <string name="list_rowtitle">タスク名：</string>
+        <string name="list_rowcontentstitle">場所：</string>
+        <string name="list_rowcontentstitle1">前回対応日:</string>
+        <string name="register_title">活動完了連絡</string>
+        <string name="register_btnMap">場所確認</string>
+        <string name="register_btnCamera">カメラ起動後、写真表示</string>
+        <string name="register_btnGallary">写真選択後、送信</string>
+        <string name="register_btnClose">閉じる</string>
+        <string name="register_btnReport">活動報告</string>
+        <string name="register_btnBack">リストに戻る</string>
+       <string name="date_year">年</string>        
+        <string name="date_month">月</string>        
+        <string name="date_day">日</string>        
+</resources>

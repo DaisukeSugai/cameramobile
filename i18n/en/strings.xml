@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+        <string name="start_titlemain">Cloud Box</string>
+        <string name="start_titlesub">Powered by Intalio Cloud</string>
+        <string name="start_btnstart">Welcome to Intalio World</string>
+        <string name="login_title">SalesSupportApp</string>
+        <string name="login_titlesub">LoginName</string> 
+        <string name="login_btnlogin">Login</string>
+        <string name="login_btnReset">Reset</string>
+        <string name="event_title">ErrorMessage</string>
+        <string name="event_message">There is no login name</string>
+        <string name="event_yes_title">Error</string>
+        <string name="event_catch_title">Error</string>
+        <string name="event_catch_message">Happens an unexpected error</string>
+        <string name="event_connect_title">AuthenticationError</string>
+        <string name="event_connect_message">Please check your connection settings</string>
+        <string name="event_network_title">NetworkError</string>
+        <string name="event_network_message">Please check your network connection</string>
+</resources>
